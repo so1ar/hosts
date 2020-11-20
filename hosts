@@ -50,6 +50,7 @@
 0.0.0.0 ipv4.gdt.qq.com
 0.0.0.0 ip.ws.126.net
 0.0.0.0 log.avlyun.com
+0.0.0.0 loggw.alipay.com
 0.0.0.0 logic.content.qq.com
 0.0.0.0 log.iflytek.com
 0.0.0.0 log.qvb.qcloud.com
@@ -111,5 +112,4 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.web605.cn
-0.0.0.p loggw.alipay.com
 ::1        mam6.netease.com
