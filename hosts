@@ -69,6 +69,7 @@
 0.0.0.0 httpdns.n.netease.com
 0.0.0.0 ifs.tanx.com
 0.0.0.0 ilce.alicdn.com
+0.0.0.0 in-addr.arpa
 0.0.0.0 info.3g.qq.com
 0.0.0.0 ipv4.gdt.qq.com
 0.0.0.0 ip.ws.126.net
@@ -102,7 +103,6 @@
 0.0.0.0 olapi.bizport.cn
 0.0.0.0 orbit.jd.com
 0.0.0.0 otheve.beacon.qq.com
-0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 othstr.beacon.qq.com
 0.0.0.0 oth.str.mdt.qq.com
@@ -171,6 +171,5 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.web605.cn
 0.0.0.0 xj.gdt.qq.com
-0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 ::1        mam6.netease.com
