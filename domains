@@ -30,6 +30,7 @@ aexception.bugly.qq.com
 a.exosrv.com
 affiliates.hostwinds.com
 aider-res.meizu.com
+aiengineonrt-stsdk.vivo.com.cn
 ali-stats.jpush.cn
 aliyun-page.cn-hangzhou.log.aliyuncs.com
 alog.umengcloud.com
@@ -39,6 +40,8 @@ als.baidu.com
 amdc.m.taobao.com
 amdcopen.m.taobao.com
 analysis.wpsmail.net
+analytics.173funny.com
+analytics3.173funny.com
 analytics.ifanrusercontent.com
 analytics.innologica.com
 analytics.map.qq.com
@@ -53,6 +56,7 @@ api.applovefrom.com
 api-flow.flyme.cn
 api-push.meizu.com
 api.share.mob.com
+apissl.ksapisrv.com
 appcloud2.in.zhihu.com
 appcloud2.zhihu.com
 appcloud.zhihu.com
@@ -131,9 +135,11 @@ daa.shuzilm.cn
 dai.shuzilm.cn
 dataflow.biliapi.com
 data.flurry.com
+data.mistat.xiaomi.com
 dcc.shuzilm.cn
 dev.visualwebsiteoptimizer.com
 df.tanx.com
+dgstatic.jd.com
 dig.bdurl.net
 dlswbr.baidu.com
 dm.bytedance.com
@@ -152,6 +158,7 @@ down9.bizport.cn
 download.shuzilm.cn
 dw-online.ksosoft.com
 dxp.baidu.com
+d.yoyi.tv
 easytomessage.com
 e.cn.miaozhen.com
 eco.taobao.com
@@ -183,10 +190,13 @@ gm.mmstat.com
 googleads.g.doubleclick.net
 g.s.360.cn
 guid.tpns.tencent.com
+gv1.xdrig.com
+gxbr.cnzz.com
 h-adashx.ut.taobao.com
 hm.baidu.com
 hmma.baidu.com
 h.trace.qq.com
+httpdns.bcelive.com
 httpdns.n.netease.com
 huatuocode.huatuo.qq.com
 huatuo.weiyun.com
@@ -244,9 +254,12 @@ mcs.snssdk.com
 m.data.mob.com
 mdevstat.qqlive.qq.com
 mercury.push.tv.sohu.com
+me.xdrig.com
 mi.gdt.qq.com
 miniapp.bilibili.com
+mipcache.bdstatic.com
 ml314.com
+mlm7mhxo.stats.lncld.net
 mobilelog.upqzfile.com
 mobile.pipe.aria.microsoft.com
 mobile.shuzilm.cn
@@ -271,10 +284,13 @@ olapi7.bizport.cn
 olapi8.bizport.cn
 olapi9.bizport.cn
 olapi.bizport.cn
+onrt-stsdk.vivo.com.cn
 openbox.mobilem.360.cn
 open-cms-api.uc.cn
+open.e.kuaishou.com
 openjmacs4uc.m.taobao.com
 orbit.jd.com
+ort-stsdk.vivo.com.cn
 otheve.beacon.qq.com
 oth.eve.mdt.qq.com
 othstr.beacon.qq.com
@@ -287,6 +303,8 @@ pcfg.wps.cn
 pd.ads.cn.miaozhen.com
 peace.zookingsoft.com
 pgdt.gtimg.cn
+pgdt.ugdtimg.com
+ping.cloud.tencent.com
 pingjs.qq.com
 pingma.qq.com
 platform-api.sharethis.com
@@ -317,9 +335,11 @@ px.ucweb.com
 qapm.baidu.com
 qappcenterv6.3g.qq.com
 qring-tms.qq.com
+quantcast.mgr.consensu.org
 rcsapi.bizport.cn
 reader.meizu.com
 redirector.googlevideo.com
+report.huatuo.qq.com
 reports.crashlytics.com
 req.startappservice.com
 resolver.msg.xiaomi.net
@@ -347,6 +367,7 @@ sdkapp.mobile.sina.cn
 sdkconfig.voiceads.cn
 sdk.e.qq.com
 sdk-open-phone.getui.com
+sdk.open.phone.igexin.com
 sdk.open.talk.gepush.com
 sdk.open.talk.getui.com
 sdk.open.talk.getui.net
@@ -393,6 +414,7 @@ ssl.kaptcha.com
 static.bshare.cn
 static.cloudflareinsights.com
 static.doubleclick.net
+static.meiqia.com
 stat.moji.com
 stat.openinstall.io
 stats.jpush.cn
@@ -443,11 +465,13 @@ up4.ucweb.com
 update.pan.baidu.com
 ups.ksmobile.net
 uri6.com
+usdpdown.game.uodoo.com
 u.uc123.com
 uxip.meizu.com
 v1.cnzz.com
 v2.reachmax.cn
 vs11.szcm.u3.ucweb.com
+vs1.bjct.u3.ucweb.com
 vs1.tjcm.u3.ucweb.com
 vt.ipinyou.com
 wbapp.mobile.sina.cn

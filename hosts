@@ -30,6 +30,7 @@
 0.0.0.0 a.exosrv.com
 0.0.0.0 affiliates.hostwinds.com
 0.0.0.0 aider-res.meizu.com
+0.0.0.0 aiengineonrt-stsdk.vivo.com.cn
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 aliyun-page.cn-hangzhou.log.aliyuncs.com
 0.0.0.0 alog.umengcloud.com
@@ -39,6 +40,8 @@
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 analysis.wpsmail.net
+0.0.0.0 analytics.173funny.com
+0.0.0.0 analytics3.173funny.com
 0.0.0.0 analytics.ifanrusercontent.com
 0.0.0.0 analytics.innologica.com
 0.0.0.0 analytics.map.qq.com
@@ -53,6 +56,7 @@
 0.0.0.0 api-flow.flyme.cn
 0.0.0.0 api-push.meizu.com
 0.0.0.0 api.share.mob.com
+0.0.0.0 apissl.ksapisrv.com
 0.0.0.0 appcloud2.in.zhihu.com
 0.0.0.0 appcloud2.zhihu.com
 0.0.0.0 appcloud.zhihu.com
@@ -131,9 +135,11 @@
 0.0.0.0 dai.shuzilm.cn
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 data.flurry.com
+0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 dcc.shuzilm.cn
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 df.tanx.com
+0.0.0.0 dgstatic.jd.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 dlswbr.baidu.com
 0.0.0.0 dm.bytedance.com
@@ -152,6 +158,7 @@
 0.0.0.0 download.shuzilm.cn
 0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 dxp.baidu.com
+0.0.0.0 d.yoyi.tv
 0.0.0.0 easytomessage.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 eco.taobao.com
@@ -183,10 +190,13 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 g.s.360.cn
 0.0.0.0 guid.tpns.tencent.com
+0.0.0.0 gv1.xdrig.com
+0.0.0.0 gxbr.cnzz.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 h.trace.qq.com
+0.0.0.0 httpdns.bcelive.com
 0.0.0.0 httpdns.n.netease.com
 0.0.0.0 huatuocode.huatuo.qq.com
 0.0.0.0 huatuo.weiyun.com
@@ -244,9 +254,12 @@
 0.0.0.0 m.data.mob.com
 0.0.0.0 mdevstat.qqlive.qq.com
 0.0.0.0 mercury.push.tv.sohu.com
+0.0.0.0 me.xdrig.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miniapp.bilibili.com
+0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 ml314.com
+0.0.0.0 mlm7mhxo.stats.lncld.net
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.shuzilm.cn
@@ -271,10 +284,13 @@
 0.0.0.0 olapi8.bizport.cn
 0.0.0.0 olapi9.bizport.cn
 0.0.0.0 olapi.bizport.cn
+0.0.0.0 onrt-stsdk.vivo.com.cn
 0.0.0.0 openbox.mobilem.360.cn
 0.0.0.0 open-cms-api.uc.cn
+0.0.0.0 open.e.kuaishou.com
 0.0.0.0 openjmacs4uc.m.taobao.com
 0.0.0.0 orbit.jd.com
+0.0.0.0 ort-stsdk.vivo.com.cn
 0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 othstr.beacon.qq.com
@@ -287,6 +303,8 @@
 0.0.0.0 pd.ads.cn.miaozhen.com
 0.0.0.0 peace.zookingsoft.com
 0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
+0.0.0.0 ping.cloud.tencent.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 platform-api.sharethis.com
@@ -317,9 +335,11 @@
 0.0.0.0 qapm.baidu.com
 0.0.0.0 qappcenterv6.3g.qq.com
 0.0.0.0 qring-tms.qq.com
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 rcsapi.bizport.cn
 0.0.0.0 reader.meizu.com
 0.0.0.0 redirector.googlevideo.com
+0.0.0.0 report.huatuo.qq.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 resolver.msg.xiaomi.net
@@ -347,6 +367,7 @@
 0.0.0.0 sdkconfig.voiceads.cn
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk-open-phone.getui.com
+0.0.0.0 sdk.open.phone.igexin.com
 0.0.0.0 sdk.open.talk.gepush.com
 0.0.0.0 sdk.open.talk.getui.com
 0.0.0.0 sdk.open.talk.getui.net
@@ -393,6 +414,7 @@
 0.0.0.0 static.bshare.cn
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.meiqia.com
 0.0.0.0 stat.moji.com
 0.0.0.0 stat.openinstall.io
 0.0.0.0 stats.jpush.cn
@@ -443,11 +465,13 @@
 0.0.0.0 update.pan.baidu.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 uri6.com
+0.0.0.0 usdpdown.game.uodoo.com
 0.0.0.0 u.uc123.com
 0.0.0.0 uxip.meizu.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 v2.reachmax.cn
 0.0.0.0 vs11.szcm.u3.ucweb.com
+0.0.0.0 vs1.bjct.u3.ucweb.com
 0.0.0.0 vs1.tjcm.u3.ucweb.com
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 wbapp.mobile.sina.cn
