@@ -68,6 +68,8 @@
 0.0.0.0 firebaseinappmessaging.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaseperusertopics-pa.googleapis.com
+0.0.0.0 flv265-txpcdn-direct.liveplay.egame.qq.com
+0.0.0.0 flv265-txpcdn.liveplay.egame.qq.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fourier.taobao.com
 0.0.0.0 game.res.meizu.com
@@ -160,8 +162,11 @@
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 tracker-01.qvb.qcloud.com
-0.0.0.0 ts.qq.com
 0.0.0.0 tv.sohu.com
+0.0.0.0 txp2p1.liveplay.egame.qq.com
+0.0.0.0 txp2p2.liveplay.egame.qq.com
+0.0.0.0 txpcdn-direct.liveplay.egame.qq.com
+0.0.0.0 txpcdn.liveplay.egame.qq.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 unidesk.alicdn.com
@@ -173,6 +178,8 @@
 0.0.0.0 www.yiluzhuanqian.com
 0.0.0.0 wxa.wxs.qq.com
 0.0.0.0 xj.gdt.qq.com
+0.0.0.0 xnet-flv264.liveplay.egame.qq.com
+0.0.0.0 xnet-flv265.liveplay.egame.qq.com
 0.0.0.0 yiluzhuanqian.com
 0.0.0.0 zconfig.alibabausercontent.com
 0.0.0.0 zhihu-web-analytics.zhihu.com

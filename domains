@@ -68,6 +68,8 @@ factors.sofire.baidu.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseperusertopics-pa.googleapis.com
+flv265-txpcdn-direct.liveplay.egame.qq.com
+flv265-txpcdn.liveplay.egame.qq.com
 footprints-pa.googleapis.com
 fourier.taobao.com
 game.res.meizu.com
@@ -160,8 +162,11 @@ tobapplog.ctobsnssdk.com
 toblog.ctobsnssdk.com
 tools.3g.qq.com
 tracker-01.qvb.qcloud.com
-ts.qq.com
 tv.sohu.com
+txp2p1.liveplay.egame.qq.com
+txp2p2.liveplay.egame.qq.com
+txpcdn-direct.liveplay.egame.qq.com
+txpcdn.liveplay.egame.qq.com
 ulogs.umengcloud.com
 ulogs.umeng.com
 unidesk.alicdn.com
@@ -173,6 +178,8 @@ wspeed.qq.com
 www.yiluzhuanqian.com
 wxa.wxs.qq.com
 xj.gdt.qq.com
+xnet-flv264.liveplay.egame.qq.com
+xnet-flv265.liveplay.egame.qq.com
 yiluzhuanqian.com
 zconfig.alibabausercontent.com
 zhihu-web-analytics.zhihu.com
